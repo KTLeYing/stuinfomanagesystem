@@ -107,19 +107,17 @@
 
 **管理员端：**
 
-1. 成绩管理  
-![](https://img-blog.csdnimg.cn/20210317155841703.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-2. 学生管理  
+1. 学生管理  
 ![](https://img-blog.csdnimg.cn/20210317171332331.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-3. 教师管理  
+2. 教师管理  
 ![](https://img-blog.csdnimg.cn/20210317171332329.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-4. 班级管理  
+3. 班级管理  
 ![](https://img-blog.csdnimg.cn/20210317172559881.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-5. 课程管理  
+4. 课程管理  
 ![](https://img-blog.csdnimg.cn/20210317171332308.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-6. 考试管理  
+5. 考试成绩管理  
 ![](https://img-blog.csdnimg.cn/20210317171332234.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-7. 系统管理  
+6. 系统管理  
 ![](https://img-blog.csdnimg.cn/20210317171332324.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
 
 
